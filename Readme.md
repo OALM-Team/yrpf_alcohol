@@ -10,3 +10,4 @@ The package provide some alcohol for the game, you can drink them and get drunk.
 
 ## Author
 Yuki
+(Thank to KuzKay for the drunk effect)
